@@ -1,0 +1,15 @@
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\bin\Debug\net8.0\AutoDrivingCarSimulation.Application.deps.json
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\bin\Debug\net8.0\AutoDrivingCarSimulation.Application.dll
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\bin\Debug\net8.0\AutoDrivingCarSimulation.Application.pdb
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\bin\Debug\net8.0\AutoDrivingCarSimulation.Domain.dll
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\bin\Debug\net8.0\AutoDrivingCarSimulation.Domain.pdb
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\AutoDrivingCarSimulation.Application.csproj.AssemblyReference.cache
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\AutoDrivingCarSimulation.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\AutoDrivingCarSimulation.Application.AssemblyInfoInputs.cache
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\AutoDrivingCarSimulation.Application.AssemblyInfo.cs
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\AutoDrivingCarSimulation.Application.csproj.CoreCompileInputs.cache
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\AutoDrivingCarSimulation.Application.csproj.CopyComplete
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\AutoDrivingCarSimulation.Application.dll
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\refint\AutoDrivingCarSimulation.Application.dll
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\AutoDrivingCarSimulation.Application.pdb
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Application\obj\Debug\net8.0\ref\AutoDrivingCarSimulation.Application.dll

@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation\\AutoDrivingCarSimulation.csproj": {}
+  },
+  "projects": {
+    "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Application\\AutoDrivingCarSimulation.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Application\\AutoDrivingCarSimulation.Application.csproj",
+        "projectName": "AutoDrivingCarSimulation.Application",
+        "projectPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Application\\AutoDrivingCarSimulation.Application.csproj",
+        "packagesPath": "C:\\Users\\prabu\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Domain\\AutoDrivingCarSimulation.Domain.csproj": {
+                "projectPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Domain\\AutoDrivingCarSimulation.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Domain\\AutoDrivingCarSimulation.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Domain\\AutoDrivingCarSimulation.Domain.csproj",
+        "projectName": "AutoDrivingCarSimulation.Domain",
+        "projectPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Domain\\AutoDrivingCarSimulation.Domain.csproj",
+        "packagesPath": "C:\\Users\\prabu\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation\\AutoDrivingCarSimulation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation\\AutoDrivingCarSimulation.csproj",
+        "projectName": "AutoDrivingCarSimulation",
+        "projectPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation\\AutoDrivingCarSimulation.csproj",
+        "packagesPath": "C:\\Users\\prabu\\.nuget\\packages\\",
+        "outputPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\prabu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Application\\AutoDrivingCarSimulation.Application.csproj": {
+                "projectPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Application\\AutoDrivingCarSimulation.Application.csproj"
+              },
+              "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Domain\\AutoDrivingCarSimulation.Domain.csproj": {
+                "projectPath": "D:\\Development\\.NetCore\\AutoCarSim\\AutoDrivingCarSimulation.Domain\\AutoDrivingCarSimulation.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

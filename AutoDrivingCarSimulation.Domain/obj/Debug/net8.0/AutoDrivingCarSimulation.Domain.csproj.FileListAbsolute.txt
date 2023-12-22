@@ -1,0 +1,11 @@
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\bin\Debug\net8.0\AutoDrivingCarSimulation.Domain.deps.json
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\bin\Debug\net8.0\AutoDrivingCarSimulation.Domain.dll
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\bin\Debug\net8.0\AutoDrivingCarSimulation.Domain.pdb
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\obj\Debug\net8.0\AutoDrivingCarSimulation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\obj\Debug\net8.0\AutoDrivingCarSimulation.Domain.AssemblyInfoInputs.cache
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\obj\Debug\net8.0\AutoDrivingCarSimulation.Domain.AssemblyInfo.cs
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\obj\Debug\net8.0\AutoDrivingCarSimulation.Domain.csproj.CoreCompileInputs.cache
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\obj\Debug\net8.0\AutoDrivingCarSimulation.Domain.dll
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\obj\Debug\net8.0\refint\AutoDrivingCarSimulation.Domain.dll
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\obj\Debug\net8.0\AutoDrivingCarSimulation.Domain.pdb
+D:\Development\.NetCore\AutoCarSim\AutoDrivingCarSimulation.Domain\obj\Debug\net8.0\ref\AutoDrivingCarSimulation.Domain.dll
